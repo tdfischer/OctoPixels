@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_octopixels/templates *
+recursive-include octoprint_octopixels/translations *
+recursive-include octoprint_octopixels/static *
